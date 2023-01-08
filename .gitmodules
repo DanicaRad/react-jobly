@@ -1,0 +1,3 @@
+[submodule "jobly-backend"]
+	path = jobly-backend
+	url = https://github.com/DanicaRad/jobly-backend.git
